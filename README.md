@@ -1,2 +1,3 @@
 # MyWhale
-Paricle Whale 
+* Paricle Whale 
+* By. q_dwarf
